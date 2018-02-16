@@ -1,5 +1,5 @@
 var chai = require('chai');
-var expect = chai.expect; // we are using the "expect" style of Chai
+var expect = chai.expect; 
 var CartSummary = require('../../src/controllers/cartCtrl');
 
 describe('CartSummary', function() {
